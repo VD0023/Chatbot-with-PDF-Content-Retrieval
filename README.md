@@ -38,7 +38,7 @@ The `PDFChatbot` class implements a chatbot that can answer questions based on t
 ### How to Use
 
 1. Install the required libraries: `pip install -r requirements.txt`
-2. Replace `'your_pdf_file.pdf'` in the example usage with the path to your PDF file.
+2. Replace `'pdfname.pdf'` in the example usage with the path to your PDF file.
 3. Run the example script.
 
 ```bash
